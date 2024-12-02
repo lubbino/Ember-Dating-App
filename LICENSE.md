@@ -174,55 +174,157 @@ Below are examples of prohibited uses under this Agreement. This list is non-exh
 #### 4.4 **Consequences of Violating Restrictions**  
 Violation of any of the aforementioned restrictions will result in the immediate suspension or termination of Your Account, and may lead to legal action, depending on the severity of the violation. Ember reserves the right to pursue remedies, including claims for damages and the pursuit of injunctive relief, against any User engaging in prohibited conduct.
 
-### **SECTION 5: OWNERSHIP OF INTELLECTUAL PROPERTY**  
+### **SECTION 5: OWNERSHIP OF INTELLECTUAL PROPERTY**
 
-#### 5.1 Intellectual Property Rights  
-The Platform, including but not limited to its underlying source code, user interface, branding, trademarks, and logos, is the exclusive property of Ember.  
+#### 5.1 **Intellectual Property Rights**  
+The Platform, including but not limited to its underlying source code, user interface, algorithms, databases, functionalities, design elements, multimedia content, branding, trademarks, service marks, logos, and other proprietary elements, is the exclusive property of Ember. All intellectual property rights in the Platform, including but not limited to copyrights, trademarks, patents, and trade secrets, are owned solely by Ember or its licensors, and are protected by international intellectual property laws and treaties. 
 
-#### 5.2 No Transfer of Ownership  
-Your usage of the Platform does not constitute a transfer of ownership rights. All rights not expressly granted herein are reserved by Ember.  
+You acknowledge and agree that any unauthorized use or duplication of the Platform’s intellectual property may result in legal consequences, including claims for damages and injunctive relief.
 
-#### 5.3 Claims of Infringement  
-If You believe that Your intellectual property rights have been infringed upon, You must submit a detailed notice to [insert legal email address]. Such notice must include:  
+#### 5.2 **No Transfer of Ownership**  
+Your use of the Platform and its Services does not grant You any ownership rights, title, or interest in the intellectual property of Ember. All rights not expressly granted to You herein are reserved by Ember. This includes any rights to the source code, software, designs, trademarks, or any other proprietary material associated with the Platform.
 
-1. Identification of the infringed material.  
-2. Proof of ownership of said material.  
-3. Contact details for further correspondence.  
+For the avoidance of doubt, You agree that, except for the limited license granted to You under this Agreement, You will not:  
+- Copy, reproduce, distribute, transmit, broadcast, display, sell, license, or otherwise exploit any part of the Platform for commercial purposes without prior written consent from Ember.
+- Use any content or branding of the Platform in a manner that may cause confusion with Ember’s official branding or intellectual property.
+- Attempt to reverse-engineer or otherwise derive the source code of any part of the Platform, or use any proprietary code for any unauthorized purpose.
 
-... *(Expand with examples, procedures, disclaimers, and what happens in case of false claims.)*  
+#### 5.3 **Claims of Infringement**  
+If You believe that Your intellectual property rights have been infringed upon by the Platform, You must submit a detailed written notice to Ember at the contact details provided below. This notice must include the following information:  
 
----
+1. **Identification of the Infringed Material**: A clear identification of the copyrighted or trademarked material that You believe has been infringed, including a description of its location (e.g., specific URLs, images, text).
+  
+2. **Proof of Ownership**: Proof that You own the intellectual property rights to the material, such as a copyright registration certificate, trademark registration, or other sufficient documentation that demonstrates ownership.
 
-### **SECTION 6: USER CONTENT AND SUBMISSIONS**  
+3. **Contact Details for Further Correspondence**: Your name, physical address, telephone number, and email address, so that Ember may contact You regarding Your claim.
 
-#### 6.1 Ownership of User Content  
-By submitting any User Content—including but not limited to photographs, text, profile descriptions, videos, and messages—You affirm that You are the original creator or have obtained all necessary rights, licenses, consents, and permissions to upload such content.  
+4. **A Statement of Good Faith**: A statement that You believe in good faith that the material was used without permission or authorization by the intellectual property holder, its agent, or the law.
 
-#### 6.2 License to Ember  
-By uploading or posting User Content, You grant Ember an irrevocable, perpetual, worldwide, royalty-free, non-exclusive, transferable, sublicensable right to use, reproduce, modify, adapt, publish, translate, distribute, publicly perform, publicly display, and create derivative works of such content in any medium now known or later developed, for purposes that include but are not limited to:  
-1. Operating the Platform;  
-2. Marketing and promotional efforts;  
-3. Research and analytics to improve matchmaking algorithms; and  
-4. Compliance with applicable laws and legal proceedings.  
+Upon receiving a proper infringement notice, Ember will promptly review the claim, investigate the issue, and take appropriate action in accordance with applicable law, which may include the removal of the infringing content from the Platform. However, Ember is not obligated to remove any content unless there is a clear and convincing claim of infringement.
 
-#### 6.3 Prohibited Content  
-The following types of User Content are strictly prohibited:  
-- Content that is defamatory, obscene, pornographic, or otherwise objectionable.  
-- Content that infringes on any copyright, trademark, or other proprietary rights.  
-- Content that promotes violence, hate speech, or illegal activities.  
+#### 5.4 **Procedure for Handling Infringement Claims**
 
-**Example 1**: A user uploads a meme that includes a copyrighted image without proper attribution. This constitutes a violation of Section 6.3(b).  
-**Example 2**: A user writes a profile description containing offensive language targeting a specific ethnic group. This is a violation of Section 6.3(a).  
+Once a claim of infringement is received, the following procedure will be followed:
 
-#### 6.4 Monitoring and Moderation  
-Ember reserves the right to review, screen, or remove any User Content at its sole discretion. Ember is not obligated to actively monitor all content but may do so to:  
-1. Comply with applicable legal obligations;  
-2. Address complaints from other Users; or  
-3. Enforce this Agreement.  
+1. **Initial Review**: Ember will conduct an initial review of the notice to ensure that all necessary information has been provided. If the notice is incomplete or unclear, Ember may request additional information or clarification from the claimant.
 
-*(Extend this section with examples, user scenarios, and disclaimers about moderation limitations.)*  
+2. **Investigation and Action**: Ember will assess whether the claim appears to have merit. If the claim is found to be valid, Ember will take appropriate action, which may include removing or disabling access to the infringing material. 
 
----
+3. **Counter-Notice**: If the alleged infringer believes that the content was removed in error or that they have a valid right to the content, they may submit a counter-notice. The counter-notice must include:
+   - A statement under penalty of perjury that the content was removed or disabled by mistake or misidentification.
+   - Identification of the material and its location before it was removed.
+   - Contact information of the person submitting the counter-notice.
+   
+   Upon receiving a valid counter-notice, Ember may reinstate the content, unless the claimant initiates legal action to seek a court order against the reinstatement.
+
+4. **Repeat Infringement Policy**: Ember adheres to a repeat infringer policy. If a User is found to be a repeat infringer of intellectual property rights, their access to the Platform may be permanently suspended or terminated.
+
+#### 5.5 **Disclaimers Regarding Infringement Claims**
+
+- **No Obligation to Monitor**: Ember is not obligated to monitor or actively seek out infringement of intellectual property rights. Ember may remove or disable access to content based on notices from intellectual property holders, but does not verify the validity of every claim.
+
+- **No Liability for Infringement**: Ember does not assume any responsibility or liability for any content uploaded by Users that infringes upon the intellectual property rights of others. All Users are responsible for ensuring that they have the appropriate rights to upload, post, or share any Content on the Platform.
+
+- **False Claims of Infringement**: If a notice of infringement is found to be false or misleading, or if You submit a claim in bad faith or with the knowledge that Your rights have not been infringed, Ember reserves the right to take action against You, including but not limited to Account suspension, termination, or legal action for misrepresentation.
+
+#### 5.6 **Indemnification for Infringement Claims**
+
+By submitting a claim of infringement, You agree to indemnify, defend, and hold harmless Ember, its affiliates, employees, agents, and representatives from and against any and all losses, damages, liabilities, costs, and expenses (including reasonable attorneys’ fees) arising out of or related to any infringement claim brought against Ember due to Your submission of an infringement notice that is ultimately determined to be false or groundless.
+
+#### 5.7 **Examples of Infringement**
+
+To better illustrate the types of intellectual property violations that may lead to an infringement notice, the following are examples of activities that would constitute infringement:
+
+- **Example 1: Unauthorized Reproduction of Copyrighted Text**  
+   A User posts an article, story, or excerpt from a copyrighted book without proper attribution or permission from the copyright holder, violating the author’s copyright.
+
+- **Example 2: Trademark Infringement**  
+   A User uploads a logo or brand name that closely resembles or copies a registered trademark, which could cause confusion among Users or infringe on the trademark holder’s exclusive rights.
+
+- **Example 3: Distribution of Pirated Content**  
+   A User shares movies, music, software, or other copyrighted content without the permission of the copyright owner, violating the copyright holder’s exclusive distribution rights.
+
+- **Example 4: Use of Unlicensed Software**  
+   A User uploads or makes available for download a piece of software that is subject to a license, but they do not have the right to distribute it, thus violating the intellectual property rights of the software's creator.
+
+#### 5.8 **Consequences of False Claims**
+
+If a claim of intellectual property infringement is determined to be false or fraudulent, Ember reserves the right to pursue remedies including the following:
+
+- **Termination of Account**: If a User is found to have made a false or fraudulent infringement claim, their Account may be suspended or terminated immediately, and they may be banned from accessing the Platform.
+  
+- **Legal Action**: Ember may pursue legal action for damages resulting from false claims or abuse of the infringement process, including potential claims for defamation, fraud, or other civil remedies.
+
+### **SECTION 6: USER CONTENT AND SUBMISSIONS**
+
+#### 6.1 **Ownership of User Content**  
+By submitting any User Content—including but not limited to photographs, text, profile descriptions, videos, messages, feedback, or any other materials (collectively "User Content")—You affirm that You are the original creator or have obtained all necessary rights, licenses, consents, and permissions to upload, post, or otherwise make such content available. You further affirm that such content does not infringe upon the intellectual property rights, privacy rights, or any other legal rights of third parties.  
+
+You also affirm that You have the full legal capacity and authority to provide Ember with the rights described in this Agreement, and You agree that You will not upload, post, or transmit any content that violates any law, regulation, or third-party rights.
+
+#### 6.2 **License to Ember**  
+By uploading or posting User Content, You grant Ember a worldwide, irrevocable, perpetual, royalty-free, non-exclusive, transferable, sublicensable right and license to use, reproduce, modify, adapt, publish, translate, distribute, publicly perform, publicly display, and create derivative works of such content in any medium now known or later developed. This license is granted for the following purposes, including but not limited to:
+
+1. **Operating the Platform**: To provide the Services, display, distribute, and facilitate the functions of the Platform to Users.
+2. **Marketing and Promotional Efforts**: To use your content in promotional materials, advertisements, social media, and other marketing efforts that promote Ember and its Services.
+3. **Research and Analytics**: To improve matchmaking algorithms, user experience, and other aspects of the Platform through the analysis of User Content.
+4. **Compliance with Applicable Laws and Legal Proceedings**: To comply with regulatory requirements, protect legal rights, and respond to any legal requests or court orders.
+
+You acknowledge that this license includes the right for Ember to sublicense your content to third parties, including but not limited to business partners, contractors, and service providers, in order to operate, promote, or analyze the Platform. Ember shall not be obligated to compensate You for any such uses of your content, nor shall it be liable for any exploitation of your content by third parties.
+
+#### 6.3 **Prohibited Content**  
+The following types of User Content are strictly prohibited on the Platform, and You agree not to upload, post, or transmit any content that falls into these categories:
+
+- **Content that is Defamatory, Obscene, Pornographic, or Otherwise Objectionable**: This includes content that is harmful, degrading, harassing, or offensive, and may include depictions of violence, explicit language, or imagery that is offensive to others.
+  
+- **Content that Infringes on Any Copyright, Trademark, or Other Proprietary Rights**: This includes content that uses copyrighted images, text, music, or other proprietary material without proper permission or licensing. This also includes using someone else's trademarked logos, symbols, or brand names without authorization.
+
+- **Content that Promotes Violence, Hate Speech, or Illegal Activities**: This includes content that encourages or glorifies harm to individuals or groups, or content that promotes hate, discrimination, or illegal behavior such as drugs, violence, or criminal activities.
+
+#### **Examples of Prohibited Content**
+
+- **Example 1: Copyright Infringement**  
+   A User uploads a meme that includes a copyrighted image or video without obtaining proper permission or providing proper attribution to the original creator. This constitutes a violation of Section 6.3(b) and can result in the removal of the content and the potential suspension of the User’s Account.
+
+- **Example 2: Offensive Language in Profile Description**  
+   A User writes a profile description containing derogatory language or hate speech targeting a specific ethnic group or religious community. This would be a violation of Section 6.3(a) and could lead to the removal of the content and potential sanctions against the User’s Account.
+
+- **Example 3: Promoting Illegal Activities**  
+   A User posts content that includes links to illegal substances or illegal activities, such as offering to sell drugs or engaging in scams. This content would violate Section 6.3(c) and could result in immediate suspension of the User's Account and referral to law enforcement.
+
+- **Example 4: Harassment**  
+   A User uploads content that contains threats of violence or harassment aimed at another User or a third party. This would be a clear violation of Section 6.3(a), and the User responsible may face suspension or permanent removal from the Platform.
+
+#### 6.4 **Monitoring and Moderation**  
+Ember reserves the right to review, screen, or remove any User Content at its sole discretion and for any reason, including but not limited to ensuring compliance with the terms of this Agreement, applicable laws, and Ember's community standards. While Ember strives to maintain a safe and respectful environment, You acknowledge and agree that:
+
+1. **Ember is Not Obligated to Act on Every Report**: Ember is not obligated to actively monitor or moderate all User Content posted on the Platform. However, Ember reserves the right to investigate and take appropriate action in response to reported violations, including content removal, account suspension, or other corrective measures.
+  
+2. **Ember May Remove Content for Any Reason**: Ember may, at its sole discretion, remove or disable access to User Content that is deemed to violate this Agreement, even if the content is not explicitly prohibited. Ember reserves the right to remove any content that it deems to be harmful, disruptive, or otherwise inappropriate, even if it is not explicitly listed as prohibited.
+
+3. **Limited Moderation Scope**: Ember cannot and does not guarantee that all User Content will be monitored or reviewed in real time. Ember’s moderation processes may include automated systems that screen for certain types of content, but these systems are not foolproof. Therefore, some content may remain on the Platform until it is reported or flagged by other Users.
+
+4. **Complaints from Users**: If a User encounters content that they believe violates the terms of this Agreement, they can report the content using the Platform’s built-in reporting tools. Ember will review all reports in a timely manner, but the resolution of complaints may take time depending on the complexity of the issue.
+
+5. **Enforcement of Community Standards**: Ember may take corrective action based on reports of inappropriate content or behavior, which may include warnings, temporary suspensions, or permanent bans, depending on the severity of the violation.
+
+#### **Disclaimers About Moderation Limitations**
+
+- **No Guarantee of Content Review**: Ember does not guarantee that all User Content will be reviewed or removed immediately upon being posted. Ember's moderation process is based on a combination of automated systems and manual review, and some content may not be flagged or removed unless it is reported by Users.
+
+- **Ember is Not Responsible for User-Generated Content**: You acknowledge that Ember is not responsible for the accuracy, legality, or appropriateness of the content posted by Users. Ember makes no representations or warranties regarding the content and disclaims any liability for the content uploaded or shared by other Users. 
+
+- **Freedom of Speech Considerations**: While Ember strives to maintain a platform that encourages healthy interaction and communication, You acknowledge that certain content may be removed based on community guidelines and policies, which may limit certain expressions of speech that are not otherwise unlawful.
+
+- **False Claims**: Users who make false or malicious claims regarding other Users' content may be subject to disciplinary action, including account suspension or termination.
+
+#### **Examples of Moderate Content That May Be Flagged**
+
+- **Example 1: Inappropriate Sexual Content**  
+   A User uploads sexually explicit or suggestive content. Although this content might not always be overtly illegal, Ember may choose to remove it based on the Platform's community guidelines, which prohibit explicit content.
+
+- **Example 2: Violent or Threatening Behavior**  
+   A User uploads content that includes threats of harm to themselves or others. This content could be flagged and reviewed by moderators to determine whether it violates Ember's rules and whether intervention is necessary.
 
 ### **SECTION 7: ACCEPTABLE USE POLICY**  
 
