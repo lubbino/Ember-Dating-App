@@ -326,29 +326,64 @@ Ember reserves the right to review, screen, or remove any User Content at its so
 - **Example 2: Violent or Threatening Behavior**  
    A User uploads content that includes threats of harm to themselves or others. This content could be flagged and reviewed by moderators to determine whether it violates Ember's rules and whether intervention is necessary.
 
-### **SECTION 7: ACCEPTABLE USE POLICY**  
+### **SECTION 7: ACCEPTABLE USE POLICY**
 
-#### 7.1 Prohibited Activities  
-You agree not to use the Platform for any unlawful purpose or in any way that:  
-1. Violates any local, state, national, or international law or regulation;  
-2. Harms or exploits minors;  
-3. Spreads false, misleading, or deceptive information; or  
-4. Disrupts or interferes with the security, integrity, or performance of the Platform.  
+#### 7.1 **Prohibited Activities**
+You agree not to use the Platform for any unlawful purpose or in any way that:
 
-#### 7.2 Examples of Prohibited Uses  
-Example 1: Using automated scripts to scrape data from other Users’ profiles.  
-Example 2: Impersonating another person or entity for the purpose of fraud or harassment.  
-Example 3: Posting advertisements for services unrelated to the intent of the Platform.  
+1. **Violates Any Local, State, National, or International Law or Regulation**:  
+   In addition to the laws of your own jurisdiction, this includes any violation of Swedish laws, such as the **Swedish Personal Data Act (PUL)**, **the Swedish Copyright Act**, and **the Electronic Communications Act**. This also encompasses adherence to international regulations like the **GDPR** (General Data Protection Regulation) governing data privacy and user rights.
 
-#### 7.3 Consequences of Violation  
-Violations of this Acceptable Use Policy may result in:  
-1. Suspension or termination of Your account.  
-2. Legal action by Ember, including seeking damages.  
-3. Notification of law enforcement authorities.  
+2. **Harms or Exploits Minors**:  
+   Using the Platform to engage with or exploit minors in any way that constitutes harm under Swedish law is strictly prohibited. This includes behaviors that would violate the **Swedish Penal Code** (Brottsbalken), particularly provisions regarding sexual exploitation or abuse of minors.
 
-*(Expand with multiple layers of detail for each consequence, including hypothetical examples and elaboration on possible enforcement methods.)*  
+3. **Spreads False, Misleading, or Deceptive Information**:  
+   You agree not to use the Platform for spreading misinformation or engaging in fraud. This is in accordance with the **Swedish Marketing Act** (Marknadsföringslagen), which prohibits deceptive business practices, and the **Consumer Protection Act** (Konsumentköplagen), which ensures that all advertising and communications are truthful.
 
----
+4. **Disrupts or Interferes with the Security, Integrity, or Performance of the Platform**:  
+   Activities that involve hacking, spamming, or any form of cyber attack, such as DDoS attacks or introducing malware, are prohibited. These activities violate the **Swedish Electronic Communications Act** and the **Swedish Penal Code**, which criminalizes unauthorized access to data systems.
+
+#### 7.2 **Examples of Prohibited Uses**
+
+**Example 1: Using Automated Scripts to Scrape Data from Other Users’ Profiles**  
+   Scraping personal data from other users, including but not limited to email addresses, interests, or location data, without explicit consent, violates Swedish **Data Protection Laws**. It also contravenes the **GDPR**, which protects individuals’ personal information from unauthorized access.
+
+**Example 2: Impersonating Another Person or Entity for the Purpose of Fraud or Harassment**  
+   Using fake identities to defraud other users or commit harassment is a violation of Swedish **criminal law** under fraud (Brottsbalken 9:1), and harassment (Brottsbalken 4:7). Impersonating another individual for malicious purposes, such as gaining access to private information or committing identity theft, is subject to criminal prosecution.
+
+**Example 3: Posting Advertisements for Services Unrelated to the Intent of the Platform**  
+   Using the Platform to promote unrelated services such as financial schemes, non-dating products, or unrelated social causes, in a manner that could be seen as spam, violates **Swedish E-commerce Laws**. This also breaches **GDPR** when personal data is misused for marketing purposes without proper consent.
+
+**Example 4: Engaging in Harassment or Bullying**  
+   Harassing or bullying other users, including sending repeated unwanted messages or creating profiles to target individuals with hateful or offensive content, is prohibited. This behavior is a violation of both **Swedish criminal law** (Brottsbalken 4:7) and the **Discrimination Act** (Diskrimineringslagen) that prohibits harassment in digital spaces.
+
+**Example 5: Distributing Malicious Software**  
+   Uploading, distributing, or attempting to introduce viruses, malware, or spyware onto the Platform to compromise its security or disrupt other users’ experience is a violation of **Swedish cybercrime laws**. This could lead to charges under **the Swedish Penal Code** related to unauthorized data interference and destruction.
+
+**Example 6: Exploiting Platform Vulnerabilities for Unauthorized Access**  
+   Attempting to hack, disrupt, or gain unauthorized access to the Platform or its database through techniques such as SQL injection or phishing attacks is prohibited by Swedish **cybersecurity laws**. Such actions are illegal under both the **Electronic Communications Act** and the **Swedish Penal Code**.
+
+#### 7.3 **Consequences of Violation**
+
+Violations of this Acceptable Use Policy may result in a range of consequences, depending on the severity of the violation. These may include:
+
+1. **Suspension or Termination of Your Account**:  
+   Ember reserves the right to suspend or terminate your account if you are found to violate this Acceptable Use Policy. The suspension may be temporary, such as when investigating a potential violation, or permanent if the violation is deemed severe, such as engaging in fraudulent activity or violating laws related to personal data.
+
+   - **Example 1**: If you are found to have impersonated another user or engaged in fraudulent activities, Ember will suspend your account immediately and will review the case. If fraudulent activities are confirmed, Ember may terminate your account and report the incident to relevant authorities.
+   - **Example 2**: If your account is used to distribute malware or conduct cyber-attacks, Ember will suspend access to your account and may seek legal action.
+
+2. **Legal Action by Ember, Including Seeking Damages**:  
+   Ember may pursue legal action in accordance with **Swedish Law** if you engage in activities that cause harm to the platform, other users, or Ember's business interests. This may include seeking compensatory damages for any financial or reputational loss incurred due to your actions.
+
+   - **Example 1**: If your activities involve scraping sensitive data or infringing on intellectual property rights, Ember may pursue legal action to recover damages as outlined by the **Swedish Copyright Act** or **GDPR** regulations.
+   - **Example 2**: In cases of fraudulent transactions or impersonation, Ember may seek legal recourse under **Swedish Penal Law** to press charges and claim damages.
+
+3. **Notification of Law Enforcement Authorities**:  
+   In cases where violations of this policy involve criminal activities, Ember reserves the right to report the incident to the appropriate law enforcement agencies. This includes violations of Swedish laws related to data theft, harassment, or fraud.
+
+   - **Example 1**: If you are found to be impersonating a person with the intent to defraud or harm, Ember will notify Swedish authorities to investigate and take appropriate legal action.
+   - **Example 2**: If there is evidence that a user is involved in spreading harmful malware or engaging in cyberattacks, Ember will immediately report this to Swedish police or relevant authorities to ensure compliance with national cybersecurity laws.
 
 ### **SECTION 8: PRIVACY POLICY AND DATA USAGE**  
 
