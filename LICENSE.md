@@ -1,2 +1,2 @@
 No remix, no download, no nothing bitch
-Copyright© Ludvig Lifbom 2024
+\nCopyright© Ludvig Lifbom 2024
