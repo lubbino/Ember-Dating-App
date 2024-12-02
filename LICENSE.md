@@ -1,7 +1,7 @@
 **EMBER TERMS OF SERVICE AND END-USER LICENSE AGREEMENT (EULA)**  
 **Effective Date:** 02/12-24
 
-This Terms of Service and End-User License Agreement ("Agreement") constitutes a legally binding agreement between you ("User" or "You") and Ember Inc. ("We," "Us," or "Our") regarding your access and use of the Ember platform, including, but not limited to, the Ember website ("Website"), Ember mobile application ("App"), and all associated services, technologies, and functionalities (collectively referred to as "Platform"). Please read this Agreement carefully before using the Platform.  
+This Terms of Service and End-User License Agreement ("Agreement") constitutes a legally binding agreement between you ("User" or "You") and SimEmber Inc. ("We," "Us," or "Our") regarding your access and use of the Ember platform, including, but not limited to, the Ember website ("Website"), Ember mobile application ("App"), and all associated services, technologies, and functionalities (collectively referred to as "Platform"). Please read this Agreement carefully before using the Platform.  
 
 ### **SECTION 1: INTRODUCTION**  
 
