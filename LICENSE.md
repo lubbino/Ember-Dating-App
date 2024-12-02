@@ -117,26 +117,62 @@ Your use of the Platform is subject to Your acceptance of this Agreement, which 
 2. Access any part of the Platform, even without creating an account.  
 3. Utilize services provided by the Platform, whether or not a monetary transaction is involved.  
 
----
+### **SECTION 4: LICENSE GRANT**
 
-### **SECTION 4: LICENSE GRANT**  
+#### 4.1 **Grant of License**  
+Subject to strict compliance with this Agreement and all applicable laws, Ember grants You, the User, a limited, personal, revocable, non-exclusive, non-transferable, non-sublicensable license to access and use the Platform solely for its intended purposes, which include but are not limited to engaging in dating, networking, and communication activities as facilitated by the Platform. This license is granted only for non-commercial, individual use in accordance with the terms outlined herein. Any other use of the Platform, whether direct or indirect, that exceeds the scope of this license, is prohibited unless specifically authorized by Ember through a separate written agreement.
 
-#### 4.1 Grant of License  
-Subject to strict compliance with this Agreement, Ember grants You a limited, personal, revocable, non-exclusive, non-transferable, non-sublicensable license to use the Platform solely for its intended purposes.  
+#### 4.2 **Restrictions**  
+This license explicitly prohibits You from engaging in the following actions:
 
-#### 4.2 Restrictions  
-This license explicitly prohibits You from:  
-- Accessing or attempting to access proprietary source code.  
-- Modifying, adapting, or altering any component of the Platform.  
-- Commercially exploiting the Platform without prior written consent.  
+- **Accessing or Attempting to Access Proprietary Source Code**: You shall not, under any circumstances, attempt to reverse-engineer, decompile, disassemble, or otherwise extract or access the proprietary source code, algorithms, or underlying technologies that power the Platform, except where such actions are expressly permitted under applicable law.
+  
+- **Modifying, Adapting, or Altering Any Component of the Platform**: You shall not modify, adapt, translate, or otherwise alter the Platform, its components, or its features in any way that would result in unauthorized behavior, user experiences, or any technical issues, including without limitation modifying any content, visual elements, or backend systems that are part of the Platform.
+  
+- **Commercially Exploiting the Platform**: You are expressly prohibited from commercially exploiting any part of the Platform without prior written consent from Ember. This includes, but is not limited to, selling, leasing, or licensing any portion of the Platform or using it in a manner that generates revenue or commercial gain for a third party, unless explicitly authorized.
 
-#### 4.3 Examples of Prohibited Uses (elaborate on multiple scenarios):  
-Example 1: Using bots or automated scripts to send unsolicited messages.  
-Example 2: Creating fake accounts or impersonating another individual for fraudulent purposes.  
+- **Circumventing Platform Security**: You are prohibited from bypassing or attempting to bypass any security measures or restrictions set by Ember, including those designed to prevent unauthorized access to User data, content, or protected areas of the Platform.
 
-*(Each subsection here can be stretched out with examples, legal jargon, and additional references to terms already defined in earlier sections.)*  
+- **Interfering with Platform Operations**: You must not engage in any activity that disrupts, damages, or impairs the functionality of the Platform, including but not limited to launching denial-of-service attacks, flooding, or other malicious actions.
 
----
+- **Using the Platform for Illegal Activities**: You must not use the Platform to facilitate or engage in illegal activities, including but not limited to fraud, identity theft, harassment, or the distribution of illegal content. This extends to actions that violate local, national, or international law, such as the unauthorized distribution of copyrighted materials.
+
+#### 4.3 **Examples of Prohibited Uses**
+
+Below are examples of prohibited uses under this Agreement. This list is non-exhaustive and is intended to provide clear guidance on behaviors that violate the terms of this license:
+
+- **Example 1: Using Bots or Automated Scripts to Send Unsolicited Messages**  
+   You are prohibited from using bots, automated scripts, or any other form of artificial intelligence to send unsolicited messages, communications, or spam to other Users. This includes automated methods of generating profiles, sending mass messages, or engaging in repetitive, unsolicited interactions that disrupt the experience of other Users. Such actions violate the purpose of the Platform, which is to foster genuine, meaningful connections between Users.
+  
+- **Example 2: Creating Fake Accounts or Impersonating Another Individual for Fraudulent Purposes**  
+   You must not create false identities or profiles on the Platform for deceptive or fraudulent purposes, including impersonating another individual or entity. Fraudulent behavior may include misrepresenting your identity, age, location, or other personal information to mislead or deceive other Users. This includes creating profiles for the purpose of scamming, phishing, or attempting to gain unauthorized access to the personal data or accounts of other Users.
+
+- **Example 3: Selling or Transferring Accounts to Third Parties**  
+   You are prohibited from selling, trading, or transferring Your Account to any third party. Account ownership is non-transferable and must remain solely under Your control. The sale or transfer of accounts in exchange for money, goods, services, or any other consideration is prohibited and will result in immediate termination of the Account.
+
+- **Example 4: Using the Platform for Harassment or Abusive Conduct**  
+   Any conduct that targets, intimidates, or harasses other Users, including sending abusive, threatening, or offensive messages, is strictly prohibited. Harassment may take many forms, including but not limited to verbal abuse, stalking, and unwanted advances. Users engaging in harassment or abusive conduct will have their Accounts terminated and may face legal action if warranted.
+
+- **Example 5: Engaging in Phishing or Data Collection for Unauthorized Purposes**  
+   You must not use the Platform to solicit or collect personal information from other Users for illegal purposes. This includes attempting to steal or harvest personal data, login credentials, or payment information through phishing schemes or other fraudulent tactics. Any attempt to gain access to another User’s personal information through deceptive means is a direct violation of this Agreement.
+
+- **Example 6: Manipulating or Falsifying Matchmaking Data**  
+   You are prohibited from manipulating or falsifying the data used by the matchmaking algorithm in order to gain an unfair advantage, such as artificially inflating your match scores or influencing other Users' behavior through fraudulent actions. This includes using bots, scripts, or any form of non-human activity to alter the functioning of the matchmaking system.
+
+- **Example 7: Spreading Malicious Software or Viruses**  
+   You must not upload or transmit any viruses, malware, spyware, or other malicious code that could harm the Platform, its Users, or its systems. The introduction of any harmful software or code with the intent to damage or exploit the Platform is a serious violation that may result in immediate suspension or termination of Your Account.
+
+- **Example 8: Using the Platform to Promote or Engage in Unlawful Activities**  
+   Any use of the Platform to promote, solicit, or participate in illegal activities, such as the sale of drugs, human trafficking, or the promotion of violence or terrorism, is strictly prohibited. Ember will report any such activity to law enforcement and take immediate action to suspend or terminate involved accounts.
+
+- **Example 9: Misleading or Deceptive Marketing**  
+   You are prohibited from using the Platform to conduct deceptive marketing practices, including but not limited to misrepresenting Your business, services, or products. This applies to any unauthorized promotion or advertisement not approved by Ember. Attempts to manipulate the Platform's features for personal marketing gain are also prohibited.
+
+- **Example 10: Sharing Content that Violates Intellectual Property Rights**  
+   You must not upload, share, or distribute any Content that violates the intellectual property rights of others, including copyrighted works, trademarks, or patents. This includes unauthorized use of protected music, images, videos, logos, and any other content that is subject to intellectual property law. Ember reserves the right to remove any infringing Content and may take further legal action.
+
+#### 4.4 **Consequences of Violating Restrictions**  
+Violation of any of the aforementioned restrictions will result in the immediate suspension or termination of Your Account, and may lead to legal action, depending on the severity of the violation. Ember reserves the right to pursue remedies, including claims for damages and the pursuit of injunctive relief, against any User engaging in prohibited conduct.
 
 ### **SECTION 5: OWNERSHIP OF INTELLECTUAL PROPERTY**  
 
