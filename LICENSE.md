@@ -658,7 +658,20 @@ Upon termination, all rights granted to You under this Agreement will immediatel
 2. Retain content or interactions necessary for compliance with legal obligations; and  
 3. Deny future account registrations at its sole discretion.  
 
-*(Add further elaborations about handling of remaining subscription periods or refunds, where applicable.)*  
+#### 13.4 Handling of Remaining Subscription Periods or Refunds  
+1. **Subscription Termination by User**:  
+   If You choose to terminate Your account during a paid subscription period, Your subscription will remain active until the end of the current billing cycle. You will not be entitled to a refund for the remaining period, unless required by applicable law or at Ember’s discretion based on specific circumstances.
+
+2. **Subscription Termination by Ember**:  
+   If Ember terminates Your account or access due to violations of this Agreement, fraudulent activities, or any other reason under Section 13.1, You will not be entitled to a refund for any unused portion of a paid subscription. If Ember terminates Your account for reasons not related to a breach of this Agreement, You may request a prorated refund for the remaining portion of the subscription period.
+
+3. **Refund Process**:  
+   In cases where You are eligible for a refund, the refund will be processed using the original method of payment. Refund requests should be submitted within [X] days of the termination or suspension. Ember will process eligible refunds within [Y] days, depending on the method of payment.
+
+4. **Outstanding Fees**:  
+   Upon termination, You are still liable for any outstanding fees or charges incurred prior to the termination date. Ember reserves the right to collect any unpaid fees through appropriate means, including using a collection agency if necessary.
+
+Here’s the expanded version of **Section 14: Governing Law and Jurisdiction**, including examples of how conflicts between jurisdictions might be resolved and reiterating arbitration requirements:
 
 ---
 
@@ -673,9 +686,33 @@ Any disputes arising under this Agreement shall be subject to the exclusive juri
 #### 14.3 International Use  
 Users accessing the Platform from outside [Your Jurisdiction] are responsible for ensuring compliance with local laws. Ember makes no representation that the Platform is appropriate or available for use in all locations.  
 
-*(Expand with examples of how conflicts between jurisdictions might be resolved and reiterate arbitration requirements.)*  
+#### 14.4 Conflicts Between Jurisdictions  
+In the event of a conflict between the laws of [Your Jurisdiction] and the local laws of a user’s country, the following procedures will apply:  
+1. **Conflict Resolution by Negotiation**:  
+   If a dispute arises regarding the applicability of the governing law or jurisdiction, both parties agree to attempt to resolve the dispute through informal negotiations. This may include engaging in discussions or mediation to reach an agreement without formal legal action.
 
----
+2. **Resolution through Arbitration**:  
+   If the dispute cannot be resolved through informal negotiations, both parties agree to submit the matter to binding arbitration. The arbitration will be conducted in [Your Jurisdiction] under the rules of the [Arbitration Association or Institution], which shall govern the arbitration process. The decision of the arbitrator(s) will be final and binding. The party initiating the arbitration shall bear the costs of the arbitration, unless otherwise determined by the arbitrator(s).
+
+3. **Compliance with Local Laws**:  
+   In cases where users from different jurisdictions are involved, and local laws may impose restrictions on the arbitration or governing law provisions, Ember agrees to comply with those legal obligations as required. For example, if a user in the European Union has a dispute, they may have certain rights under EU law that override the choice of law and jurisdiction provisions in this Agreement, especially regarding consumer protection rights.
+
+4. **Forum Non Conveniens**:  
+   If a user contests the jurisdiction or venue under this Agreement due to significant inconvenience, the court may consider a motion for a change of venue (forum non conveniens). The court will decide whether the case should proceed in a more convenient jurisdiction based on the location of the parties, the nature of the dispute, and other factors such as the costs and fairness of litigation in the chosen jurisdiction.
+
+#### 14.5 Arbitration Requirements  
+In addition to the provisions mentioned above, all disputes and claims related to this Agreement shall be resolved through binding arbitration, except where prohibited by law. The following rules apply to arbitration:  
+1. **Arbitration Scope**:  
+   Arbitration will apply to all disputes, including claims related to the validity of this Agreement, breach, or enforcement of terms, except for claims related to intellectual property infringement or claims that cannot be arbitrated under applicable law.
+   
+2. **Arbitration Process**:  
+   The arbitration will be conducted in accordance with the rules of the [Arbitration Association or Institution], with the location of the arbitration determined by the applicable jurisdiction rules, unless the parties mutually agree otherwise.
+   
+3. **Arbitration Fees**:  
+   You will be responsible for all legal fees and costs, but Ember will bear the cost of the arbitration itself, except in cases where the arbitrator determines that the dispute was frivolous or brought in bad faith.
+
+4. **No Class Action**:  
+   You agree that any arbitration will be conducted on an individual basis only, and not as part of a class action or other representative proceeding. 
 
 ### **SECTION 15: DISPUTE RESOLUTION**  
 
