@@ -387,56 +387,194 @@ Violations of this Acceptable Use Policy may result in a range of consequences, 
 
 ### **SECTION 8: PRIVACY POLICY AND DATA USAGE**  
 
-#### 8.1 Data Collection  
-Ember collects, processes, and stores personal data in accordance with its Privacy Policy. Data collected may include but is not limited to:  
-1. Account information, such as email address, username, and password;  
-2. Profile information, including interests, preferences, and photographs;  
-3. Usage data, such as browsing behavior and interaction with other Users; and  
-4. Device information, including IP address and operating system.  
+#### 8.1 **Data Collection**  
+Ember collects, processes, and stores personal data in accordance with its **Privacy Policy** and in compliance with Swedish law, particularly the **General Data Protection Regulation (GDPR)**. The data collected may include, but is not limited to:
 
-#### 8.2 Use of Data  
-The data collected is utilized for:  
-1. Improving matchmaking algorithms to enhance user experiences.  
-2. Sending notifications, updates, and promotional content.  
-3. Ensuring compliance with local and international laws.  
+1. **Account Information**:  
+   Information provided during account registration, such as email address, username, password, and contact details.  
+   
+2. **Profile Information**:  
+   Data users voluntarily provide in their profile, including personal preferences, relationship goals, hobbies, interests, photographs, and other content shared via the Platform.  
+   
+3. **Usage Data**:  
+   Data about how you interact with the Platform, including browsing behavior, interactions with other users (messages, likes, etc.), and usage patterns such as session time, frequency of visits, and actions taken within the Platform. This data may be collected through cookies and similar technologies.  
+   
+4. **Device Information**:  
+   Information about the devices used to access Ember, including the IP address, browser type, operating system, device model, location data, and other technical details related to device configurations.  
 
-#### 8.3 Third-Party Sharing  
-Your data may be shared with third parties for the following purposes:  
-1. Payment processing via trusted partners;  
-2. Analytics and marketing conducted by authorized vendors; and  
-3. Legal compliance with subpoenas, court orders, or law enforcement requests.  
+#### 8.2 **Use of Data**  
+The data collected is used for the following purposes:
 
-*(Include a detailed subsection about how data anonymization works, listing procedures and safeguards.)*  
+1. **Improving Matchmaking Algorithms**:  
+   Data, including profile information and user interactions, is analyzed to improve the accuracy of the matchmaking system, enhancing user experience by delivering more relevant and personalized matches. This includes the use of machine learning algorithms that take into account your preferences and behaviors to suggest connections.  
+   
+2. **Sending Notifications, Updates, and Promotional Content**:  
+   Ember may use your data to send you important updates, notifications, and marketing materials related to the Platform’s services, including new features, promotions, and events. You will be given the option to manage your preferences or opt-out of marketing communications in compliance with **Swedish Direct Marketing Laws** and the **GDPR**.  
+   
+3. **Ensuring Compliance with Local and International Laws**:  
+   Data is processed to comply with **Swedish laws**, including the **Swedish Personal Data Act** and **GDPR** regulations, as well as international regulations where applicable. This may involve verifying that users comply with legal requirements, processing requests from law enforcement, or protecting Ember’s rights and obligations.  
+
+4. **Enhancing Platform Security**:  
+   Usage data, including device information, is used to monitor and protect the security of the Platform. This includes identifying and preventing fraudulent activity, unauthorized access attempts, and security breaches.  
+
+#### 8.3 **Third-Party Sharing**  
+Ember may share your data with trusted third-party providers for the following purposes:
+
+1. **Payment Processing**:  
+   When you make payments for subscription services, Ember shares relevant financial data with trusted third-party payment processors. These processors comply with **Swedish financial regulations** and **GDPR** to protect your payment details. Your payment information will not be stored by Ember but will be handled directly by payment service providers (e.g., PayPal, credit card processors).
+
+2. **Analytics and Marketing**:  
+   Ember may engage third-party vendors to conduct analytics and marketing campaigns to improve user engagement and the Platform’s overall performance. These vendors may receive aggregated, anonymized data to perform their tasks, but they are prohibited from using or sharing personal information for any other purpose.
+
+   - **Example**: Ember may work with analytics companies like Google Analytics to understand user behavior on the Platform, but Google will not receive personally identifiable information without your explicit consent.
+
+3. **Legal Compliance**:  
+   Ember may disclose your data if required by law, such as in response to subpoenas, court orders, or requests from law enforcement. If legally compelled, Ember will disclose only the minimum amount of personal data necessary to comply with legal obligations. This disclosure is governed by **Swedish law** and **GDPR** provisions regarding legal obligations.
+
+   - **Example**: If a user’s account is suspected of engaging in criminal activity, Ember may be required to provide relevant user data to Swedish authorities as part of an investigation, while ensuring compliance with the **Swedish Penal Code** and **GDPR** protections.
+
+4. **Business Transfers**:  
+   In the event that Ember undergoes a merger, acquisition, or sale of assets, your personal data may be transferred to the new entity. Ember will ensure that any such transfer complies with applicable privacy laws and that the new entity will protect your data according to the same standards set out in this Agreement.
+
+#### 8.4 **Data Anonymization and Safeguards**  
+Ember uses robust methods to ensure that your data is anonymized wherever possible. These procedures are designed to minimize the risks associated with the processing of personal data. Ember employs the following safeguards:
+
+1. **Data Anonymization**:  
+   When personal data is no longer needed for the purposes it was originally collected, it may be anonymized to prevent identification of individuals. Anonymized data may be retained for research, analytics, or improvement of the Platform, but it will not be used to identify any specific user.
+
+2. **Pseudonymization**:  
+   Ember may pseudonymize your data, replacing personally identifiable information with pseudonyms, ensuring that the data cannot be traced back to you without additional information stored separately. This allows Ember to process your data for certain purposes while maintaining your privacy.
+
+3. **Encryption**:  
+   Ember implements advanced encryption methods to protect your data during transmission and while stored in its systems. All sensitive data, such as passwords and financial information, is encrypted using industry-standard methods to prevent unauthorized access.
+
+4. **Access Control**:  
+   Access to personal data within Ember is restricted to authorized personnel only. Ember’s employees and third-party service providers who handle your data are required to follow strict privacy and security protocols to prevent unauthorized access, disclosure, or misuse of your personal information.
+
+5. **Data Minimization**:  
+   Ember follows the principle of data minimization under **GDPR**, meaning it collects only the minimum amount of data necessary to provide services to you. This ensures that unnecessary or excessive data is not stored, reducing potential risks related to privacy and security.
+
+#### 8.5 **User Rights and Controls**  
+As a user, you have the following rights regarding your personal data:
+
+1. **Right to Access**:  
+   You have the right to request a copy of the personal data Ember holds about you. Ember will provide this information within one month, in accordance with the **GDPR**.
+
+2. **Right to Rectification**:  
+   You may request to correct any inaccurate or incomplete personal data held by Ember.
+
+3. **Right to Erasure (Right to be Forgotten)**:  
+   You may request the deletion of your personal data, subject to certain legal exceptions, such as when Ember is required to retain data for legal purposes or when there are overriding legitimate grounds for processing.
+
+4. **Right to Object to Processing**:  
+   You may object to the processing of your personal data, particularly if the processing is based on legitimate interests or direct marketing.
+
+5. **Right to Data Portability**:  
+   You have the right to request that your personal data be provided to you in a structured, commonly used, and machine-readable format, and to transfer that data to another service provider.
+
+6. **Right to Withdraw Consent**:  
+   You have the right to withdraw your consent to data processing at any time. If you withdraw consent, Ember will no longer process your data for the purposes for which consent was originally given, unless there is a lawful basis for continuing to process your data.
+
+To exercise any of your rights, please contact Ember's data protection officer at [insert contact information] or through the contact options available on the Platform.
 
 ---
 
 ### **SECTION 9: PAYMENT TERMS (IF APPLICABLE)**  
 
-#### 9.1 Subscription Plans  
-Certain features of the Platform may be accessible only through paid subscriptions. Subscription plans and pricing details are outlined within the Platform interface.  
+#### 9.1 **Subscription Plans**  
+Certain features and services of the Platform, including premium matchmaking, enhanced visibility, and additional communication tools, are only accessible through paid subscriptions. The specific details of available subscription plans, including their pricing, duration, features, and benefits, are provided within the Platform’s interface. Ember reserves the right to update or modify subscription plans and pricing at its discretion. Any changes to pricing or available features will be communicated to you in advance, and your continued use of the subscription services constitutes your agreement to any updated terms.
 
-#### 9.2 Payment Methods  
-Accepted payment methods include credit cards, debit cards, and third-party payment gateways (e.g., PayPal, Stripe). All payments are processed securely, and Ember does not retain full credit card details.  
+#### 9.2 **Payment Methods**  
+Ember accepts various payment methods for your convenience, including:
 
-#### 9.3 Refund Policy  
-Refunds are issued at Ember’s sole discretion. Requests for refunds must be submitted via [Support Email] within 14 days of purchase and may require proof of extenuating circumstances.  
+1. **Credit and Debit Cards**:  
+   You may use major credit cards, such as Visa, MasterCard, and American Express, to pay for subscription services. Payments are securely processed through third-party payment processors. Ember does not store your credit card details, ensuring that your payment information is handled securely by trusted vendors.  
 
-*(Expand on refund denial scenarios, exceptions, and case-specific examples for clarity.)*  
+2. **Third-Party Payment Gateways**:  
+   Ember also accepts payments through third-party gateways such as PayPal and Stripe. These payment processors adhere to stringent security standards, and Ember does not store sensitive payment information.  
 
----
+3. **Currency**:  
+   Payments will be processed in the currency specified within the Platform. If your payment method operates in a different currency, conversion fees may apply, and Ember will not be responsible for such fees.
 
-### **SECTION 10: WARRANTIES AND DISCLAIMERS**  
+Ember utilizes secure encryption technologies to protect your payment data, complying with applicable data protection laws, including the **GDPR** and **Swedish Financial Regulations**.
+
+#### 9.3 **Refund Policy**  
+Refunds for subscription purchases are issued at Ember’s sole discretion. The following outlines the conditions under which you may request a refund:
+
+1. **Eligibility for Refunds**:  
+   Refund requests may be eligible if the following criteria are met:
+   - The request is submitted within 14 days of purchase.
+   - You have not used the service extensively (e.g., accessed premium features or communicated with other users).
+   - The purchase was made in error or due to extenuating circumstances, such as technical issues that prevented access to the Platform.
+
+2. **Refund Denial Scenarios**:  
+   Refunds may be denied under the following circumstances:
+   - The 14-day refund request window has passed.
+   - You have already used the premium features for a substantial period of time (e.g., communicated with other users, viewed profiles).
+   - The service was canceled or suspended due to a violation of the Terms of Service or **Acceptable Use Policy**.
+   - The subscription was renewed automatically, and you failed to cancel the subscription before the renewal date.
+
+   **Example 1**:  
+   A user purchases a 3-month subscription but requests a refund 30 days after the purchase. Since the refund request is made after the 14-day window, the request is denied.  
+
+   **Example 2**:  
+   A user subscribes to a premium service, utilizes the full benefits (such as viewing and messaging other profiles), and then requests a refund citing dissatisfaction. The refund will be denied as the service was already used.  
+
+3. **How to Request a Refund**:  
+   If you believe you are eligible for a refund, you may request one by contacting Ember’s support team at [Support Email] within 14 days of your purchase. You will need to provide the following information:
+   - Your account details (email address or username).
+   - Proof of purchase (e.g., receipt or payment confirmation).
+   - A detailed explanation of why you are requesting the refund.
+
+4. **Exceptions**:  
+   Refunds may not be granted if you:
+   - Failed to access the Platform due to issues related to your own device, internet connection, or account information.
+   - Requested a refund after using the service beyond a reasonable trial period or beyond what Ember deems to be "extensive use."
+
+5. **Refund Processing**:  
+   Once your refund request is approved, Ember will process the refund within 14 days of the approval date. Refunds will be issued through the original payment method (e.g., credit card, PayPal). Please note that depending on your payment method, it may take additional time for the funds to appear in your account.
+
+**Example**:  
+A user requests a refund due to technical issues accessing the Platform. Upon investigation, Ember determines the issue was related to the user’s browser settings rather than a Platform error. In this case, the refund request would be denied as it does not meet the criteria for extenuating circumstances.
+
+#### 9.4 **Subscription Cancellations and Renewals**  
+1. **Cancellation**:  
+   You may cancel your subscription at any time through the Platform’s settings. Cancellations will take effect at the end of the current billing period, and you will retain access to the premium features until the end of that period. No partial refunds will be issued for unused portions of the subscription.
+
+2. **Automatic Renewal**:  
+   If you have subscribed to a recurring subscription plan, your subscription will automatically renew at the end of each billing cycle unless you cancel before the renewal date. You will be notified via email prior to the renewal to remind you of the upcoming charge. If you do not wish to continue the subscription, you must cancel before the renewal date.
+
+   **Example**:  
+   A user has a monthly subscription plan that is set to renew on the 1st of each month. Ember sends a reminder email on the 28th of the month. If the user does not cancel before the 1st, the subscription will automatically renew for the next month.
+
+3. **Subscription Upgrades and Downgrades**:  
+   Users may upgrade or downgrade their subscription plans at any time. Any upgrade will take effect immediately, and the new payment will be prorated for the remaining time in the current billing cycle. Downgrades will take effect at the start of the next billing cycle.
+
+#### 9.5 **Taxes**  
+Prices listed for subscription plans do not include applicable taxes, duties, or levies that may be required by law. You are responsible for paying any such taxes, which will be added to the subscription price at the time of payment.
+
+### **SECTION 10: WARRANTIES AND DISCLAIMERS**
 
 #### 10.1 Platform Availability  
-The Platform is provided on an "as-is" and "as-available" basis. Ember makes no guarantee regarding the uptime, availability, or error-free operation of the Platform.  
+The Platform is provided on an "as-is" and "as-available" basis. Ember makes no guarantee regarding the uptime, availability, or error-free operation of the Platform. Ember reserves the right to modify, suspend, or discontinue any portion of the Platform, and any such actions may occur with or without notice. Ember is not liable for any downtime, disruptions, or interruptions in service, whether caused by technical issues, maintenance, or unforeseen events.
 
 #### 10.2 Limitation of Warranties  
 To the maximum extent permitted by applicable law, Ember disclaims all warranties, including but not limited to:  
 1. Fitness for a particular purpose;  
-2. Non-infringement of intellectual property rights; and  
-3. Compatibility with specific devices or operating systems.  
+2. Non-infringement of intellectual property rights;  
+3. Compatibility with specific devices or operating systems;  
+4. Accuracy, reliability, or completeness of any information or content on the Platform.
 
-*(Expand with disclaimers for data loss, third-party service disruptions, and hypothetical “Acts of God” scenarios.)*  
+Ember does not warrant that the Platform will meet all user expectations or be free from errors, defects, or security vulnerabilities. Users are solely responsible for their use of the Platform and for taking appropriate precautions to avoid data loss, system disruptions, and other risks.
+
+#### 10.3 Data Loss  
+Ember does not guarantee the retention or security of any data uploaded, entered, or stored on the Platform. In the event of a system failure, data corruption, or unauthorized access, Ember shall not be held liable for any loss, damage, or unauthorized disclosure of user data. Users are encouraged to regularly back up any important data stored on the Platform.
+
+#### 10.4 Third-Party Service Disruptions  
+The Platform may rely on third-party services (e.g., payment gateways, cloud storage, API providers, etc.) to operate. Ember makes no warranties regarding the availability, reliability, or functionality of these third-party services. In the event of disruptions, failures, or interruptions in third-party services, Ember shall not be held responsible for any consequences or damages that may result.
+
+#### 10.5 Acts of God  
+Ember shall not be held liable for any failure or delay in providing services caused by circumstances beyond its reasonable control, including but not limited to natural disasters, power outages, wars, civil unrest, government actions, or other unforeseen events (commonly referred to as "Acts of God"). Ember shall make reasonable efforts to restore service as soon as possible under such conditions, but cannot guarantee service continuity or compensation for losses caused by such events. 
 
 ### **SECTION 11: LIMITATION OF LIABILITY**  
 
