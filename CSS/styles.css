@@ -1,9 +1,16 @@
-body {
-
+body{
+    font-family: "Lora", roman;
+    font-weight: 400;
 }
 
 h1 {
     font-size: 3em;
     text-align: center;
-    
+    color : red;
+}
+
+.copyright{
+    text-align: center;
+    color: #3f3f3f;
+    font-size: 0.75em;
 }
